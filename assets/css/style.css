@@ -266,10 +266,15 @@ section {
     line-height: 1.5;
     font-size: 20px;
     font-style: normal;
+    color: white ;
+}
+
+a:link {
+    color: #fce138;
 }
 
 .contact-info address {
-    color: #fce138
+    color: white;
 }
 
 /* REACH OUT STYLES END */
