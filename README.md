@@ -12,3 +12,5 @@ https://ezaiger.github.io/run-buddy/
 
 ## Contribution
 Madie with ❤️ by EZaiger
+
+# Run Buddy Inc.
