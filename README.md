@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://ezaiger.github.io/run-buddy/
 
 ## Contribution
-Madie with ❤️ by EZaiger
+Made with ❤️ by EZaiger
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc
