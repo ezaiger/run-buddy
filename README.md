@@ -11,6 +11,7 @@ A website that offers fitness training services.
 https://ezaiger.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by EZaiger
+Original code provided by courses.bootcampspot.com
+Refactored code by EZaiger
 
 ### ©️2019 Run Buddy, Inc
