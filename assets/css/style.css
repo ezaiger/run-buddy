@@ -222,7 +222,7 @@ section {
     border-color: #39a6b2;
 }
 
-/* trainers */
+/* trainer styles */
 .trainers {
     width: 100%;
     margin: 0 auto;
@@ -269,7 +269,7 @@ section {
     font-size: 17px;
 }
 
-/* contact */
+/* contact styles */
 .contact {
     background: #024e76;
 }
@@ -330,12 +330,25 @@ section {
     font-size: 16px;
 }
 
+.contact-info a {
+    color: #fce138
+}
+
+/* had this code but doesn't match the code snapshot?
 a:link {
     color: #fce138;
 }
 
 .contact-info address {
     color: white;
+} */
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
 }
 
 .flex-row {
@@ -390,6 +403,7 @@ a:link {
    }
 }
 
+/* media query for tablets and smaller */
 @media screen and (max-width: 768px) {
     section {
         padding: 30px 15px;
@@ -418,6 +432,7 @@ a:link {
     }
 }
 
+/* media query for mobile phones and smaller */
 @media screen and (max-width: 575px) {
     .hero-form button {
         width: 100%;
